@@ -1,16 +1,56 @@
-# Portfolio Prototype
-## Info:
-- I decide to create a prototype in figma for my Web Portfolio and will start to build in January 2025
-- The portfolio highlights my past projects, certificates, educational backgrounds, core skills.
-- The design is very minimalist (I preferred simple and minimal in my design)
-- The prototype was created in FIGMA, during my time starting to learn about FIGMA.
+# SATA DEV Project: IKONEK APP
+
+## NOTICE:
+- Figma Demo is not fully-build feature, fully-build features are available in the app demonstration.
+## Inspiration
+- Freshmen student from rural area who wants to study information technology and want to learn some of the basic hardware like Arduino and Raspberry Pi.
+
+## What it does
+
+- Lesson
+- Quiz
+- SATABOT (AI Chatbot)
+- Tutorial Project
+- Dialect Features
+
+## How we built it
+
+- Flutterflow
+- Gemini AI
+- Firebase
+- Figma (UI and Prototype)
+
+## Challenges we ran into
+
+- Integration of AI
+- Making Quiz
+- Making of Tutorial Project
+- Authentication
+
+## Accomplishments that we're proud of
+- SATA BOT (AI Chatbot) that focused on hardware like Arduino and Raspberry Pi
+- Dialect Features that a user will choose selected native language that will translate the whole content of the lesson
+- Build-in projects that user can try-on to have an experience developing system with hardware
+
+## What we learned
+- We learn more about AI Integration
+- We explore Authentication using Email
+- We learn about how to translate text in different native languages
+
+## What's next for IKONEK APP
+- Adding more lessons about hardwares
+- Gamified Quizzes
+- Acurate SATA BOT AI
+- More Tutorial Projects
+- Expanding Native Dialects
+- Adding 3D Experience simulations
 ---
 Check my prototype:
-[Click me](https://www.figma.com/proto/qFwTKu6qH6hXz5vKGnmBhR/UI%2FUX-Portfolio?page-id=0%3A1&node-id=37-778&node-type=canvas&viewport=62%2C314%2C0.19&t=DRfkpG0itMqjCg4p-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=37%3A778)
+[Click me]([https://www.figma.com/proto/qFwTKu6qH6hXz5vKGnmBhR/UI%2FUX-Portfolio?page-id=0%3A1&node-id=37-778&node-type=canvas&viewport=62%2C314%2C0.19&t=DRfkpG0itMqjCg4p-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=37%3A778](https://www.figma.com/proto/3PafRtOGFS37V2owDKQYMN/SATA-PROTOTYPE-PROJECT?page-id=0%3A1&node-id=27-11&viewport=235%2C1150%2C0.14&t=Zw6b92lqJZAbba5i-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=27%3A11))
 
 ---
 Show Demo Here
 
-![prototype portfolio figma](https://github.com/user-attachments/assets/2a936d04-5d16-4104-91f9-bf20517cc67d)
+![IKONEK APP FIGMA DEMO](https://github.com/user-attachments/assets/0542cd07-11d4-4729-b443-c763f37e28f2)
 
 ---
