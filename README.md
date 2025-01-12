@@ -51,6 +51,6 @@ Check my prototype:
 ---
 Show Demo Here
 
-![IKONEK APP FIGMA DEMO](https://github.com/user-attachments/assets/0542cd07-11d4-4729-b443-c763f37e28f2)
+![IKONEK APP FIGMA DEMO (1)](https://github.com/user-attachments/assets/475cfbb6-9f23-41d6-8ba2-1b685bd0d9dc)
 
 ---
