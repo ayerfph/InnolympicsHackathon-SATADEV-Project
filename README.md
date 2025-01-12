@@ -1,5 +1,8 @@
 # SATA DEV Project: IKONEK APP
 
+## GOOGLE DRIVE LINK FOR IKONEK APP:
+- https://drive.google.com/file/d/1FAITMF7qePrtf0-awdaIe7beq8cIIm10/view?usp=sharing
+
 ## NOTICE:
 - Figma Demo is not fully-build feature, fully-build features are available in the app demonstration.
 ## Inspiration
